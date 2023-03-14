@@ -1,0 +1,11 @@
+# Source: Metascan 2.8.2
+# Device: iPhone Xʀ
+#
+# Exported: 2023-02-26T23:18:32.603150Z
+#
+
+newmtl material_0
+illum 1
+map_Kd metascan_20230226-1501_Chair_tex0.jpeg
+norm metascan_20230226-1501_Chair_norm0.jpeg
+map_ao metascan_20230226-1501_Chair_ao0.jpeg
