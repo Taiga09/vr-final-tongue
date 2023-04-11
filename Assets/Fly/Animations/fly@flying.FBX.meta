@@ -1,0 +1,1190 @@
+fileFormatVersion: 2
+guid: df79adc6656c4ec4f943f12dd47a549a
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Fly
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: fly_Abdomen1_bone
+  - first:
+      1: 100006
+    second: fly_Abdomen2_bone
+  - first:
+      1: 100008
+    second: fly_Abdomen3-nub_bone
+  - first:
+      1: 100010
+    second: fly_Abdomen3_bone
+  - first:
+      1: 100012
+    second: fly_COM_ctrl
+  - first:
+      1: 100014
+    second: fly_Head-nub_bone
+  - first:
+      1: 100016
+    second: fly_Head_bone
+  - first:
+      1: 100018
+    second: fly_Head_ctrl
+  - first:
+      1: 100020
+    second: fly_Hip_ctrl
+  - first:
+      1: 100022
+    second: fly_l_ball_IKGoal
+  - first:
+      1: 100024
+    second: fly_l_Claw-nub_bone
+  - first:
+      1: 100026
+    second: fly_l_Claw_bone
+  - first:
+      1: 100028
+    second: fly_l_Coxa_bone
+  - first:
+      1: 100030
+    second: fly_l_Coxa_ctrl
+  - first:
+      1: 100032
+    second: fly_l_Femur_bone
+  - first:
+      1: 100034
+    second: fly_l_Foot_ctrl
+  - first:
+      1: 100036
+    second: fly_l_Hball_IKGoal
+  - first:
+      1: 100038
+    second: fly_l_Heel_hlp
+  - first:
+      1: 100040
+    second: fly_l_heel_IKGoal
+  - first:
+      1: 100042
+    second: fly_l_HeelPeel_hlp
+  - first:
+      1: 100044
+    second: fly_l_HFoot_ctrl
+  - first:
+      1: 100046
+    second: fly_l_HHeel_hlp
+  - first:
+      1: 100048
+    second: fly_l_Hheel_IKGoal
+  - first:
+      1: 100050
+    second: fly_l_HHeelPeel_hlp
+  - first:
+      1: 100052
+    second: fly_l_HindClaw-nub_bone
+  - first:
+      1: 100054
+    second: fly_l_HindClaw_bone
+  - first:
+      1: 100056
+    second: fly_l_HindCoxa_bone
+  - first:
+      1: 100058
+    second: fly_l_HindCoxa_ctrl
+  - first:
+      1: 100060
+    second: fly_l_HindFemur_bone
+  - first:
+      1: 100062
+    second: fly_l_HindTarsus_bone
+  - first:
+      1: 100064
+    second: fly_l_HindTibia_bone
+  - first:
+      1: 100066
+    second: fly_l_HindToe_bone
+  - first:
+      1: 100068
+    second: fly_l_Htoe_IKGoal
+  - first:
+      1: 100070
+    second: fly_l_HToeLift_hlp
+  - first:
+      1: 100072
+    second: fly_l_HToeTap_hlp
+  - first:
+      1: 100074
+    second: fly_l_Mball_IKGoal
+  - first:
+      1: 100076
+    second: fly_l_MFoot_ctrl
+  - first:
+      1: 100078
+    second: fly_l_MHeel_hlp
+  - first:
+      1: 100080
+    second: fly_l_Mheel_IKGoal
+  - first:
+      1: 100082
+    second: fly_l_MHeelPeel_hlp
+  - first:
+      1: 100084
+    second: fly_l_MiddleClaw-nub_bone
+  - first:
+      1: 100086
+    second: fly_l_MiddleClaw_bone
+  - first:
+      1: 100088
+    second: fly_l_MiddleCoxa_bone
+  - first:
+      1: 100090
+    second: fly_l_MiddleCoxa_ctrl
+  - first:
+      1: 100092
+    second: fly_l_MiddleFemur_bone
+  - first:
+      1: 100094
+    second: fly_l_MiddleTarsus_bone
+  - first:
+      1: 100096
+    second: fly_l_MiddleTibia_bone
+  - first:
+      1: 100098
+    second: fly_l_MiddleToe_bone
+  - first:
+      1: 100100
+    second: fly_l_Mtoe_IKGoal
+  - first:
+      1: 100102
+    second: fly_l_MToeLift_hlp
+  - first:
+      1: 100104
+    second: fly_l_MToeTap_hlp
+  - first:
+      1: 100106
+    second: fly_l_Tarsus_bone
+  - first:
+      1: 100108
+    second: fly_l_Tibia_bone
+  - first:
+      1: 100110
+    second: fly_l_Toe_bone
+  - first:
+      1: 100112
+    second: fly_l_toe_IKGoal
+  - first:
+      1: 100114
+    second: fly_l_ToeLift_hlp
+  - first:
+      1: 100116
+    second: fly_l_ToeTap_hlp
+  - first:
+      1: 100118
+    second: fly_l_Wing1_bone
+  - first:
+      1: 100120
+    second: fly_l_Wing1_ctrl
+  - first:
+      1: 100122
+    second: fly_l_Wing2-nub_bone
+  - first:
+      1: 100124
+    second: fly_l_Wing2_bone
+  - first:
+      1: 100126
+    second: fly_l_Wing2_ctrl
+  - first:
+      1: 100128
+    second: fly_l_WingRoll_bone
+  - first:
+      1: 100130
+    second: fly_Main_ctrl
+  - first:
+      1: 100132
+    second: fly_r_ball_IKGoal
+  - first:
+      1: 100134
+    second: fly_r_Claw-nub_bone
+  - first:
+      1: 100136
+    second: fly_r_Claw_bone
+  - first:
+      1: 100138
+    second: fly_r_Coxa_bone
+  - first:
+      1: 100140
+    second: fly_r_Coxa_ctrl
+  - first:
+      1: 100142
+    second: fly_r_Femur_bone
+  - first:
+      1: 100144
+    second: fly_r_Foot_ctrl
+  - first:
+      1: 100146
+    second: fly_r_Hball_IKGoal
+  - first:
+      1: 100148
+    second: fly_r_Heel_hlp
+  - first:
+      1: 100150
+    second: fly_r_heel_IKGoal
+  - first:
+      1: 100152
+    second: fly_r_HeelPeel_hlp
+  - first:
+      1: 100154
+    second: fly_r_HFoot_ctrl
+  - first:
+      1: 100156
+    second: fly_r_HHeel_hlp
+  - first:
+      1: 100158
+    second: fly_r_Hheel_IKGoal
+  - first:
+      1: 100160
+    second: fly_r_HHeelPeel_hlp
+  - first:
+      1: 100162
+    second: fly_r_HindClaw-nub_bone
+  - first:
+      1: 100164
+    second: fly_r_HindClaw_bone
+  - first:
+      1: 100166
+    second: fly_r_HindCoxa_bone
+  - first:
+      1: 100168
+    second: fly_r_HindCoxa_ctrl
+  - first:
+      1: 100170
+    second: fly_r_HindFemur_bone
+  - first:
+      1: 100172
+    second: fly_r_HindTarsus_bone
+  - first:
+      1: 100174
+    second: fly_r_HindTibia_bone
+  - first:
+      1: 100176
+    second: fly_r_HindToe_bone
+  - first:
+      1: 100178
+    second: fly_r_Htoe_IKGoal
+  - first:
+      1: 100180
+    second: fly_r_HToeLift_hlp
+  - first:
+      1: 100182
+    second: fly_r_HToeTap_hlp
+  - first:
+      1: 100184
+    second: fly_r_Mball_IKGoal
+  - first:
+      1: 100186
+    second: fly_r_MFoot_ctrl
+  - first:
+      1: 100188
+    second: fly_r_MHeel_hlp
+  - first:
+      1: 100190
+    second: fly_r_Mheel_IKGoal
+  - first:
+      1: 100192
+    second: fly_r_MHeelPeel_hlp
+  - first:
+      1: 100194
+    second: fly_r_MiddleClaw-nub_bone
+  - first:
+      1: 100196
+    second: fly_r_MiddleClaw_bone
+  - first:
+      1: 100198
+    second: fly_r_MiddleCoxa_bone
+  - first:
+      1: 100200
+    second: fly_r_MiddleCoxa_ctrl
+  - first:
+      1: 100202
+    second: fly_r_MiddleFemur_bone
+  - first:
+      1: 100204
+    second: fly_r_MiddleTarsus_bone
+  - first:
+      1: 100206
+    second: fly_r_MiddleTibia_bone
+  - first:
+      1: 100208
+    second: fly_r_MiddleToe_bone
+  - first:
+      1: 100210
+    second: fly_r_Mtoe_IKGoal
+  - first:
+      1: 100212
+    second: fly_r_MToeLift_hlp
+  - first:
+      1: 100214
+    second: fly_r_MToeTap_hlp
+  - first:
+      1: 100216
+    second: fly_r_Tarsus_bone
+  - first:
+      1: 100218
+    second: fly_r_Tibia_bone
+  - first:
+      1: 100220
+    second: fly_r_Toe_bone
+  - first:
+      1: 100222
+    second: fly_r_toe_IKGoal
+  - first:
+      1: 100224
+    second: fly_r_ToeLift_hlp
+  - first:
+      1: 100226
+    second: fly_r_ToeTap_hlp
+  - first:
+      1: 100228
+    second: fly_r_Wing1_bone
+  - first:
+      1: 100230
+    second: fly_r_Wing1_ctrl
+  - first:
+      1: 100232
+    second: fly_r_Wing2-nub_bone
+  - first:
+      1: 100234
+    second: fly_r_Wing2_bone
+  - first:
+      1: 100236
+    second: fly_r_Wing2_ctrl
+  - first:
+      1: 100238
+    second: fly_r_WingRoll_bone
+  - first:
+      1: 100240
+    second: fly_Tail_ctrl
+  - first:
+      1: 100242
+    second: fly_Thorax_bone
+  - first:
+      1: 100244
+    second: Helix001
+  - first:
+      1: 100246
+    second: Helix002
+  - first:
+      4: 400000
+    second: Fly
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: fly_Abdomen1_bone
+  - first:
+      4: 400006
+    second: fly_Abdomen2_bone
+  - first:
+      4: 400008
+    second: fly_Abdomen3-nub_bone
+  - first:
+      4: 400010
+    second: fly_Abdomen3_bone
+  - first:
+      4: 400012
+    second: fly_COM_ctrl
+  - first:
+      4: 400014
+    second: fly_Head-nub_bone
+  - first:
+      4: 400016
+    second: fly_Head_bone
+  - first:
+      4: 400018
+    second: fly_Head_ctrl
+  - first:
+      4: 400020
+    second: fly_Hip_ctrl
+  - first:
+      4: 400022
+    second: fly_l_ball_IKGoal
+  - first:
+      4: 400024
+    second: fly_l_Claw-nub_bone
+  - first:
+      4: 400026
+    second: fly_l_Claw_bone
+  - first:
+      4: 400028
+    second: fly_l_Coxa_bone
+  - first:
+      4: 400030
+    second: fly_l_Coxa_ctrl
+  - first:
+      4: 400032
+    second: fly_l_Femur_bone
+  - first:
+      4: 400034
+    second: fly_l_Foot_ctrl
+  - first:
+      4: 400036
+    second: fly_l_Hball_IKGoal
+  - first:
+      4: 400038
+    second: fly_l_Heel_hlp
+  - first:
+      4: 400040
+    second: fly_l_heel_IKGoal
+  - first:
+      4: 400042
+    second: fly_l_HeelPeel_hlp
+  - first:
+      4: 400044
+    second: fly_l_HFoot_ctrl
+  - first:
+      4: 400046
+    second: fly_l_HHeel_hlp
+  - first:
+      4: 400048
+    second: fly_l_Hheel_IKGoal
+  - first:
+      4: 400050
+    second: fly_l_HHeelPeel_hlp
+  - first:
+      4: 400052
+    second: fly_l_HindClaw-nub_bone
+  - first:
+      4: 400054
+    second: fly_l_HindClaw_bone
+  - first:
+      4: 400056
+    second: fly_l_HindCoxa_bone
+  - first:
+      4: 400058
+    second: fly_l_HindCoxa_ctrl
+  - first:
+      4: 400060
+    second: fly_l_HindFemur_bone
+  - first:
+      4: 400062
+    second: fly_l_HindTarsus_bone
+  - first:
+      4: 400064
+    second: fly_l_HindTibia_bone
+  - first:
+      4: 400066
+    second: fly_l_HindToe_bone
+  - first:
+      4: 400068
+    second: fly_l_Htoe_IKGoal
+  - first:
+      4: 400070
+    second: fly_l_HToeLift_hlp
+  - first:
+      4: 400072
+    second: fly_l_HToeTap_hlp
+  - first:
+      4: 400074
+    second: fly_l_Mball_IKGoal
+  - first:
+      4: 400076
+    second: fly_l_MFoot_ctrl
+  - first:
+      4: 400078
+    second: fly_l_MHeel_hlp
+  - first:
+      4: 400080
+    second: fly_l_Mheel_IKGoal
+  - first:
+      4: 400082
+    second: fly_l_MHeelPeel_hlp
+  - first:
+      4: 400084
+    second: fly_l_MiddleClaw-nub_bone
+  - first:
+      4: 400086
+    second: fly_l_MiddleClaw_bone
+  - first:
+      4: 400088
+    second: fly_l_MiddleCoxa_bone
+  - first:
+      4: 400090
+    second: fly_l_MiddleCoxa_ctrl
+  - first:
+      4: 400092
+    second: fly_l_MiddleFemur_bone
+  - first:
+      4: 400094
+    second: fly_l_MiddleTarsus_bone
+  - first:
+      4: 400096
+    second: fly_l_MiddleTibia_bone
+  - first:
+      4: 400098
+    second: fly_l_MiddleToe_bone
+  - first:
+      4: 400100
+    second: fly_l_Mtoe_IKGoal
+  - first:
+      4: 400102
+    second: fly_l_MToeLift_hlp
+  - first:
+      4: 400104
+    second: fly_l_MToeTap_hlp
+  - first:
+      4: 400106
+    second: fly_l_Tarsus_bone
+  - first:
+      4: 400108
+    second: fly_l_Tibia_bone
+  - first:
+      4: 400110
+    second: fly_l_Toe_bone
+  - first:
+      4: 400112
+    second: fly_l_toe_IKGoal
+  - first:
+      4: 400114
+    second: fly_l_ToeLift_hlp
+  - first:
+      4: 400116
+    second: fly_l_ToeTap_hlp
+  - first:
+      4: 400118
+    second: fly_l_Wing1_bone
+  - first:
+      4: 400120
+    second: fly_l_Wing1_ctrl
+  - first:
+      4: 400122
+    second: fly_l_Wing2-nub_bone
+  - first:
+      4: 400124
+    second: fly_l_Wing2_bone
+  - first:
+      4: 400126
+    second: fly_l_Wing2_ctrl
+  - first:
+      4: 400128
+    second: fly_l_WingRoll_bone
+  - first:
+      4: 400130
+    second: fly_Main_ctrl
+  - first:
+      4: 400132
+    second: fly_r_ball_IKGoal
+  - first:
+      4: 400134
+    second: fly_r_Claw-nub_bone
+  - first:
+      4: 400136
+    second: fly_r_Claw_bone
+  - first:
+      4: 400138
+    second: fly_r_Coxa_bone
+  - first:
+      4: 400140
+    second: fly_r_Coxa_ctrl
+  - first:
+      4: 400142
+    second: fly_r_Femur_bone
+  - first:
+      4: 400144
+    second: fly_r_Foot_ctrl
+  - first:
+      4: 400146
+    second: fly_r_Hball_IKGoal
+  - first:
+      4: 400148
+    second: fly_r_Heel_hlp
+  - first:
+      4: 400150
+    second: fly_r_heel_IKGoal
+  - first:
+      4: 400152
+    second: fly_r_HeelPeel_hlp
+  - first:
+      4: 400154
+    second: fly_r_HFoot_ctrl
+  - first:
+      4: 400156
+    second: fly_r_HHeel_hlp
+  - first:
+      4: 400158
+    second: fly_r_Hheel_IKGoal
+  - first:
+      4: 400160
+    second: fly_r_HHeelPeel_hlp
+  - first:
+      4: 400162
+    second: fly_r_HindClaw-nub_bone
+  - first:
+      4: 400164
+    second: fly_r_HindClaw_bone
+  - first:
+      4: 400166
+    second: fly_r_HindCoxa_bone
+  - first:
+      4: 400168
+    second: fly_r_HindCoxa_ctrl
+  - first:
+      4: 400170
+    second: fly_r_HindFemur_bone
+  - first:
+      4: 400172
+    second: fly_r_HindTarsus_bone
+  - first:
+      4: 400174
+    second: fly_r_HindTibia_bone
+  - first:
+      4: 400176
+    second: fly_r_HindToe_bone
+  - first:
+      4: 400178
+    second: fly_r_Htoe_IKGoal
+  - first:
+      4: 400180
+    second: fly_r_HToeLift_hlp
+  - first:
+      4: 400182
+    second: fly_r_HToeTap_hlp
+  - first:
+      4: 400184
+    second: fly_r_Mball_IKGoal
+  - first:
+      4: 400186
+    second: fly_r_MFoot_ctrl
+  - first:
+      4: 400188
+    second: fly_r_MHeel_hlp
+  - first:
+      4: 400190
+    second: fly_r_Mheel_IKGoal
+  - first:
+      4: 400192
+    second: fly_r_MHeelPeel_hlp
+  - first:
+      4: 400194
+    second: fly_r_MiddleClaw-nub_bone
+  - first:
+      4: 400196
+    second: fly_r_MiddleClaw_bone
+  - first:
+      4: 400198
+    second: fly_r_MiddleCoxa_bone
+  - first:
+      4: 400200
+    second: fly_r_MiddleCoxa_ctrl
+  - first:
+      4: 400202
+    second: fly_r_MiddleFemur_bone
+  - first:
+      4: 400204
+    second: fly_r_MiddleTarsus_bone
+  - first:
+      4: 400206
+    second: fly_r_MiddleTibia_bone
+  - first:
+      4: 400208
+    second: fly_r_MiddleToe_bone
+  - first:
+      4: 400210
+    second: fly_r_Mtoe_IKGoal
+  - first:
+      4: 400212
+    second: fly_r_MToeLift_hlp
+  - first:
+      4: 400214
+    second: fly_r_MToeTap_hlp
+  - first:
+      4: 400216
+    second: fly_r_Tarsus_bone
+  - first:
+      4: 400218
+    second: fly_r_Tibia_bone
+  - first:
+      4: 400220
+    second: fly_r_Toe_bone
+  - first:
+      4: 400222
+    second: fly_r_toe_IKGoal
+  - first:
+      4: 400224
+    second: fly_r_ToeLift_hlp
+  - first:
+      4: 400226
+    second: fly_r_ToeTap_hlp
+  - first:
+      4: 400228
+    second: fly_r_Wing1_bone
+  - first:
+      4: 400230
+    second: fly_r_Wing1_ctrl
+  - first:
+      4: 400232
+    second: fly_r_Wing2-nub_bone
+  - first:
+      4: 400234
+    second: fly_r_Wing2_bone
+  - first:
+      4: 400236
+    second: fly_r_Wing2_ctrl
+  - first:
+      4: 400238
+    second: fly_r_WingRoll_bone
+  - first:
+      4: 400240
+    second: fly_Tail_ctrl
+  - first:
+      4: 400242
+    second: fly_Thorax_bone
+  - first:
+      4: 400244
+    second: Helix001
+  - first:
+      4: 400246
+    second: Helix002
+  - first:
+      23: 2300000
+    second: fly_l_Foot_ctrl
+  - first:
+      23: 2300002
+    second: fly_l_HFoot_ctrl
+  - first:
+      23: 2300004
+    second: fly_l_MFoot_ctrl
+  - first:
+      23: 2300006
+    second: fly_r_Foot_ctrl
+  - first:
+      23: 2300008
+    second: fly_r_HFoot_ctrl
+  - first:
+      23: 2300010
+    second: fly_r_MFoot_ctrl
+  - first:
+      33: 3300000
+    second: fly_l_Foot_ctrl
+  - first:
+      33: 3300002
+    second: fly_l_HFoot_ctrl
+  - first:
+      33: 3300004
+    second: fly_l_MFoot_ctrl
+  - first:
+      33: 3300006
+    second: fly_r_Foot_ctrl
+  - first:
+      33: 3300008
+    second: fly_r_HFoot_ctrl
+  - first:
+      33: 3300010
+    second: fly_r_MFoot_ctrl
+  - first:
+      43: 4300000
+    second: Fly
+  - first:
+      43: 4300002
+    second: fly_r_HFoot_ctrl
+  - first:
+      43: 4300004
+    second: fly_r_MFoot_ctrl
+  - first:
+      43: 4300006
+    second: fly_r_Foot_ctrl
+  - first:
+      43: 4300008
+    second: fly_l_Foot_ctrl
+  - first:
+      43: 4300010
+    second: fly_l_MFoot_ctrl
+  - first:
+      43: 4300012
+    second: fly_l_HFoot_ctrl
+  - first:
+      74: 7400000
+    second: flying
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Fly
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: flying
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 41
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Fly
+        weight: 1
+      - path: fly_Head_ctrl
+        weight: 1
+      - path: fly_Hip_ctrl
+        weight: 1
+      - path: fly_Main_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Abdomen1_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Abdomen1_bone/fly_Abdomen2_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Abdomen1_bone/fly_Abdomen2_bone/fly_Abdomen3_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Abdomen1_bone/fly_Abdomen2_bone/fly_Abdomen3_bone/fly_Abdomen3-nub_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_Head_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_Head_bone/fly_Head-nub_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_Coxa_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_Coxa_ctrl/fly_l_Coxa_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_Coxa_ctrl/fly_l_Coxa_bone/fly_l_Femur_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_Coxa_ctrl/fly_l_Coxa_bone/fly_l_Femur_bone/fly_l_Tibia_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_Coxa_ctrl/fly_l_Coxa_bone/fly_l_Femur_bone/fly_l_Tibia_bone/fly_l_Tarsus_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_Coxa_ctrl/fly_l_Coxa_bone/fly_l_Femur_bone/fly_l_Tibia_bone/fly_l_Tarsus_bone/fly_l_Toe_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_Coxa_ctrl/fly_l_Coxa_bone/fly_l_Femur_bone/fly_l_Tibia_bone/fly_l_Tarsus_bone/fly_l_Toe_bone/fly_l_Claw_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_Coxa_ctrl/fly_l_Coxa_bone/fly_l_Femur_bone/fly_l_Tibia_bone/fly_l_Tarsus_bone/fly_l_Toe_bone/fly_l_Claw_bone/fly_l_Claw-nub_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_HindCoxa_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_HindCoxa_ctrl/fly_l_HindCoxa_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_HindCoxa_ctrl/fly_l_HindCoxa_bone/fly_l_HindFemur_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_HindCoxa_ctrl/fly_l_HindCoxa_bone/fly_l_HindFemur_bone/fly_l_HindTibia_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_HindCoxa_ctrl/fly_l_HindCoxa_bone/fly_l_HindFemur_bone/fly_l_HindTibia_bone/fly_l_HindTarsus_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_HindCoxa_ctrl/fly_l_HindCoxa_bone/fly_l_HindFemur_bone/fly_l_HindTibia_bone/fly_l_HindTarsus_bone/fly_l_HindToe_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_HindCoxa_ctrl/fly_l_HindCoxa_bone/fly_l_HindFemur_bone/fly_l_HindTibia_bone/fly_l_HindTarsus_bone/fly_l_HindToe_bone/fly_l_HindClaw_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_HindCoxa_ctrl/fly_l_HindCoxa_bone/fly_l_HindFemur_bone/fly_l_HindTibia_bone/fly_l_HindTarsus_bone/fly_l_HindToe_bone/fly_l_HindClaw_bone/fly_l_HindClaw-nub_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_MiddleCoxa_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_MiddleCoxa_ctrl/fly_l_MiddleCoxa_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_MiddleCoxa_ctrl/fly_l_MiddleCoxa_bone/fly_l_MiddleFemur_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_MiddleCoxa_ctrl/fly_l_MiddleCoxa_bone/fly_l_MiddleFemur_bone/fly_l_MiddleTibia_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_MiddleCoxa_ctrl/fly_l_MiddleCoxa_bone/fly_l_MiddleFemur_bone/fly_l_MiddleTibia_bone/fly_l_MiddleTarsus_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_MiddleCoxa_ctrl/fly_l_MiddleCoxa_bone/fly_l_MiddleFemur_bone/fly_l_MiddleTibia_bone/fly_l_MiddleTarsus_bone/fly_l_MiddleToe_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_MiddleCoxa_ctrl/fly_l_MiddleCoxa_bone/fly_l_MiddleFemur_bone/fly_l_MiddleTibia_bone/fly_l_MiddleTarsus_bone/fly_l_MiddleToe_bone/fly_l_MiddleClaw_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_MiddleCoxa_ctrl/fly_l_MiddleCoxa_bone/fly_l_MiddleFemur_bone/fly_l_MiddleTibia_bone/fly_l_MiddleTarsus_bone/fly_l_MiddleToe_bone/fly_l_MiddleClaw_bone/fly_l_MiddleClaw-nub_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_Wing1_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_Wing1_bone/fly_l_Wing2_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_Wing1_bone/fly_l_Wing2_bone/fly_l_Wing2-nub_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_Wing1_bone/fly_l_Wing2_bone/fly_l_WingRoll_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_Wing1_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_Wing1_ctrl/fly_l_Wing2_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_l_Wing1_ctrl/fly_l_Wing2_ctrl/Helix001
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_Coxa_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_Coxa_ctrl/fly_r_Coxa_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_Coxa_ctrl/fly_r_Coxa_bone/fly_r_Femur_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_Coxa_ctrl/fly_r_Coxa_bone/fly_r_Femur_bone/fly_r_Tibia_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_Coxa_ctrl/fly_r_Coxa_bone/fly_r_Femur_bone/fly_r_Tibia_bone/fly_r_Tarsus_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_Coxa_ctrl/fly_r_Coxa_bone/fly_r_Femur_bone/fly_r_Tibia_bone/fly_r_Tarsus_bone/fly_r_Toe_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_Coxa_ctrl/fly_r_Coxa_bone/fly_r_Femur_bone/fly_r_Tibia_bone/fly_r_Tarsus_bone/fly_r_Toe_bone/fly_r_Claw_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_Coxa_ctrl/fly_r_Coxa_bone/fly_r_Femur_bone/fly_r_Tibia_bone/fly_r_Tarsus_bone/fly_r_Toe_bone/fly_r_Claw_bone/fly_r_Claw-nub_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_HindCoxa_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_HindCoxa_ctrl/fly_r_HindCoxa_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_HindCoxa_ctrl/fly_r_HindCoxa_bone/fly_r_HindFemur_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_HindCoxa_ctrl/fly_r_HindCoxa_bone/fly_r_HindFemur_bone/fly_r_HindTibia_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_HindCoxa_ctrl/fly_r_HindCoxa_bone/fly_r_HindFemur_bone/fly_r_HindTibia_bone/fly_r_HindTarsus_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_HindCoxa_ctrl/fly_r_HindCoxa_bone/fly_r_HindFemur_bone/fly_r_HindTibia_bone/fly_r_HindTarsus_bone/fly_r_HindToe_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_HindCoxa_ctrl/fly_r_HindCoxa_bone/fly_r_HindFemur_bone/fly_r_HindTibia_bone/fly_r_HindTarsus_bone/fly_r_HindToe_bone/fly_r_HindClaw_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_HindCoxa_ctrl/fly_r_HindCoxa_bone/fly_r_HindFemur_bone/fly_r_HindTibia_bone/fly_r_HindTarsus_bone/fly_r_HindToe_bone/fly_r_HindClaw_bone/fly_r_HindClaw-nub_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_MiddleCoxa_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_MiddleCoxa_ctrl/fly_r_MiddleCoxa_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_MiddleCoxa_ctrl/fly_r_MiddleCoxa_bone/fly_r_MiddleFemur_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_MiddleCoxa_ctrl/fly_r_MiddleCoxa_bone/fly_r_MiddleFemur_bone/fly_r_MiddleTibia_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_MiddleCoxa_ctrl/fly_r_MiddleCoxa_bone/fly_r_MiddleFemur_bone/fly_r_MiddleTibia_bone/fly_r_MiddleTarsus_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_MiddleCoxa_ctrl/fly_r_MiddleCoxa_bone/fly_r_MiddleFemur_bone/fly_r_MiddleTibia_bone/fly_r_MiddleTarsus_bone/fly_r_MiddleToe_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_MiddleCoxa_ctrl/fly_r_MiddleCoxa_bone/fly_r_MiddleFemur_bone/fly_r_MiddleTibia_bone/fly_r_MiddleTarsus_bone/fly_r_MiddleToe_bone/fly_r_MiddleClaw_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_MiddleCoxa_ctrl/fly_r_MiddleCoxa_bone/fly_r_MiddleFemur_bone/fly_r_MiddleTibia_bone/fly_r_MiddleTarsus_bone/fly_r_MiddleToe_bone/fly_r_MiddleClaw_bone/fly_r_MiddleClaw-nub_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_Wing1_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_Wing1_bone/fly_r_Wing2_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_Wing1_bone/fly_r_Wing2_bone/fly_r_Wing2-nub_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_Wing1_bone/fly_r_Wing2_bone/fly_r_WingRoll_bone
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_Wing1_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_Wing1_ctrl/fly_r_Wing2_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_COM_ctrl/fly_Thorax_bone/fly_r_Wing1_ctrl/fly_r_Wing2_ctrl/Helix002
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_Foot_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_Foot_ctrl/fly_l_Heel_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_Foot_ctrl/fly_l_Heel_hlp/fly_l_ToeLift_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_Foot_ctrl/fly_l_Heel_hlp/fly_l_ToeLift_hlp/fly_l_HeelPeel_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_Foot_ctrl/fly_l_Heel_hlp/fly_l_ToeLift_hlp/fly_l_HeelPeel_hlp/fly_l_ball_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_Foot_ctrl/fly_l_Heel_hlp/fly_l_ToeLift_hlp/fly_l_HeelPeel_hlp/fly_l_heel_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_Foot_ctrl/fly_l_Heel_hlp/fly_l_ToeLift_hlp/fly_l_ToeTap_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_Foot_ctrl/fly_l_Heel_hlp/fly_l_ToeLift_hlp/fly_l_ToeTap_hlp/fly_l_toe_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_HFoot_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_HFoot_ctrl/fly_l_HHeel_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_HFoot_ctrl/fly_l_HHeel_hlp/fly_l_HToeLift_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_HFoot_ctrl/fly_l_HHeel_hlp/fly_l_HToeLift_hlp/fly_l_HHeelPeel_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_HFoot_ctrl/fly_l_HHeel_hlp/fly_l_HToeLift_hlp/fly_l_HHeelPeel_hlp/fly_l_Hball_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_HFoot_ctrl/fly_l_HHeel_hlp/fly_l_HToeLift_hlp/fly_l_HHeelPeel_hlp/fly_l_Hheel_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_HFoot_ctrl/fly_l_HHeel_hlp/fly_l_HToeLift_hlp/fly_l_HToeTap_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_HFoot_ctrl/fly_l_HHeel_hlp/fly_l_HToeLift_hlp/fly_l_HToeTap_hlp/fly_l_Htoe_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_MFoot_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_MFoot_ctrl/fly_l_MHeel_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_MFoot_ctrl/fly_l_MHeel_hlp/fly_l_MToeLift_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_MFoot_ctrl/fly_l_MHeel_hlp/fly_l_MToeLift_hlp/fly_l_MHeelPeel_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_MFoot_ctrl/fly_l_MHeel_hlp/fly_l_MToeLift_hlp/fly_l_MHeelPeel_hlp/fly_l_Mball_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_MFoot_ctrl/fly_l_MHeel_hlp/fly_l_MToeLift_hlp/fly_l_MHeelPeel_hlp/fly_l_Mheel_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_MFoot_ctrl/fly_l_MHeel_hlp/fly_l_MToeLift_hlp/fly_l_MToeTap_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_l_MFoot_ctrl/fly_l_MHeel_hlp/fly_l_MToeLift_hlp/fly_l_MToeTap_hlp/fly_l_Mtoe_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_Foot_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_Foot_ctrl/fly_r_Heel_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_Foot_ctrl/fly_r_Heel_hlp/fly_r_ToeLift_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_Foot_ctrl/fly_r_Heel_hlp/fly_r_ToeLift_hlp/fly_r_HeelPeel_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_Foot_ctrl/fly_r_Heel_hlp/fly_r_ToeLift_hlp/fly_r_HeelPeel_hlp/fly_r_ball_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_Foot_ctrl/fly_r_Heel_hlp/fly_r_ToeLift_hlp/fly_r_HeelPeel_hlp/fly_r_heel_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_Foot_ctrl/fly_r_Heel_hlp/fly_r_ToeLift_hlp/fly_r_ToeTap_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_Foot_ctrl/fly_r_Heel_hlp/fly_r_ToeLift_hlp/fly_r_ToeTap_hlp/fly_r_toe_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_HFoot_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_HFoot_ctrl/fly_r_HHeel_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_HFoot_ctrl/fly_r_HHeel_hlp/fly_r_HToeLift_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_HFoot_ctrl/fly_r_HHeel_hlp/fly_r_HToeLift_hlp/fly_r_HHeelPeel_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_HFoot_ctrl/fly_r_HHeel_hlp/fly_r_HToeLift_hlp/fly_r_HHeelPeel_hlp/fly_r_Hball_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_HFoot_ctrl/fly_r_HHeel_hlp/fly_r_HToeLift_hlp/fly_r_HHeelPeel_hlp/fly_r_Hheel_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_HFoot_ctrl/fly_r_HHeel_hlp/fly_r_HToeLift_hlp/fly_r_HToeTap_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_HFoot_ctrl/fly_r_HHeel_hlp/fly_r_HToeLift_hlp/fly_r_HToeTap_hlp/fly_r_Htoe_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_MFoot_ctrl
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_MFoot_ctrl/fly_r_MHeel_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_MFoot_ctrl/fly_r_MHeel_hlp/fly_r_MToeLift_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_MFoot_ctrl/fly_r_MHeel_hlp/fly_r_MToeLift_hlp/fly_r_MHeelPeel_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_MFoot_ctrl/fly_r_MHeel_hlp/fly_r_MToeLift_hlp/fly_r_MHeelPeel_hlp/fly_r_Mball_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_MFoot_ctrl/fly_r_MHeel_hlp/fly_r_MToeLift_hlp/fly_r_MHeelPeel_hlp/fly_r_Mheel_IKGoal
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_MFoot_ctrl/fly_r_MHeel_hlp/fly_r_MToeLift_hlp/fly_r_MToeTap_hlp
+        weight: 1
+      - path: fly_Main_ctrl/fly_r_MFoot_ctrl/fly_r_MHeel_hlp/fly_r_MToeLift_hlp/fly_r_MToeTap_hlp/fly_r_Mtoe_IKGoal
+        weight: 1
+      - path: fly_Tail_ctrl
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 41
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: fly_Main_ctrl
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fly Model
+* source:	https://sketchfab.com/3d-models/fly-model-9afe9b770a5e48a8967ebcc08aa8efde
+* author:	alphae (https://sketchfab.com/alphaemu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fly Model" (https://sketchfab.com/3d-models/fly-model-9afe9b770a5e48a8967ebcc08aa8efde) by alphae (https://sketchfab.com/alphaemu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
